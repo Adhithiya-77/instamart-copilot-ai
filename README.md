@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instamart Copilot
 
 A business analytics dashboard for a fictional quick-commerce grocery platform.
@@ -165,3 +166,6 @@ _Add screenshots after running the application locally._
 ## License
 
 MIT
+=======
+# instamart-copilot-ai
+>>>>>>> 7aba9ea4a43ecbe6fd3fc0311ab195e375f3f89b
